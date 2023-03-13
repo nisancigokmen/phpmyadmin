@@ -8,6 +8,7 @@ https://www.phpmyadmin.net/
 Code status
 -----------
 
+
 .. image:: https://github.com/phpmyadmin/phpmyadmin/actions/workflows/tests.yml/badge.svg?branch=master
     :alt: Testsuite
     :target: https://github.com/phpmyadmin/phpmyadmin/actions/workflows/tests.yml?query=branch%3Amaster
