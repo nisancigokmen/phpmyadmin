@@ -2,13 +2,13 @@ phpMyAdmin
 ==========
 
 
-
 A web interface for MySQL and MariaDB.
 
 https://www.phpmyadmin.net/
 
 Code status
 -----------
+
 
 
 .. image:: https://github.com/phpmyadmin/phpmyadmin/actions/workflows/tests.yml/badge.svg?branch=master
